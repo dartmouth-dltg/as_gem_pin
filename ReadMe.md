@@ -1,3 +1,5 @@
+# ArchivesSpace Gem Pin
+
 This gem fixes certain gem dependency requirements so that bundler does not install versions that 
 might conflct with ArchivesSpace core. It does nothing else.
 
